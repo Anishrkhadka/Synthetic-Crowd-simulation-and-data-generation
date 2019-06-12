@@ -1,0 +1,14 @@
+
+Python_Simulation/test/
+
+Python_Simulation/\.idea/
+
+Python_Simulation/__pycache__/
+
+Python_Simulation/Data/images/imageCollection/
+
+Python_Simulation/Data/images/old/
+
+Python_Simulation/Data/images/PedistrianDetection_image/
+
+Unity_Visual/Compositing/Result/
