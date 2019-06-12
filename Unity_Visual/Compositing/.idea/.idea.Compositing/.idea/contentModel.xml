@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Compositing.797677748.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Data" t="Include">
+          <e p="SimulationResult" t="Include">
+            <e p="AgentIDAndRadius.txt" t="Include" />
+            <e p="AgentPosition.txt" t="Include" />
+            <e p="AgentRotation.txt" t="Include" />
+            <e p="Save.txt" t="Include" />
+            <e p="Save_Banska_Bystrica_North_Namestie_1.txt" t="Include" />
+            <e p="Save_Brussels_the_Grand-Place_5.txt" t="Include" />
+            <e p="Save_Cheb_Spalicek_1.txt" t="Include" />
+            <e p="Save_KU_SEC_Back_1.txt" t="Include" />
+            <e p="Save_Lemgo_1.txt" t="Include" />
+            <e p="Save_Markt_1.txt" t="Include" />
+            <e p="Save_Montpellier_Place_de_la_Comedie_1.txt" t="Include" />
+            <e p="Save_Olomouc_1.txt" t="Include" />
+            <e p="Save_Soest_Markt_1.txt" t="Include" />
+            <e p="Save_Zlin_nameti_Miru_1.txt" t="Include" />
+            <e p="Save_Zlín_nameti_Miru_1.txt" t="Include" />
+            <e p="SimulationSetting.txt" t="Include" />
+          </e>
+          <e p="tobeRemoved" t="Include">
+            <e p="Agents.txt" t="Include" />
+            <e p="Mall" t="Include">
+              <e p="Agents_MALL.txt" t="Include" />
+              <e p="Save_MALL.txt" t="Include" />
+              <e p="TRIAL_Pos.txt" t="Include" />
+              <e p="TRIAL_Rot.txt" t="Include" />
+              <e p="TRIAL_Sets.txt" t="Include" />
+            </e>
+            <e p="Save.txt" t="Include" />
+            <e p="SimulationResult_50" t="Include">
+              <e p="Agents.txt" t="Include" />
+              <e p="Save.txt" t="Include" />
+              <e p="TRIAL_Pos.txt" t="Include" />
+              <e p="TRIAL_Rot.txt" t="Include" />
+              <e p="TRIAL_Sets.txt" t="Include" />
+            </e>
+            <e p="TRIAL_Pos.txt" t="Include" />
+            <e p="TRIAL_Rot.txt" t="Include" />
+            <e p="TRIAL_Sets.txt" t="Include" />
+            <e p="old" t="Include">
+              <e p="Agents.txt" t="Include" />
+              <e p="Save_KARD.txt" t="Include" />
+              <e p="TRIAL_Pos.txt" t="Include" />
+              <e p="TRIAL_Rot.txt" t="Include" />
+              <e p="TRIAL_Sets.txt" t="Include" />
+            </e>
+            <e p="other" t="Include">
+              <e p="Kitchen_TRIAL_Pos.txt" t="Include" />
+              <e p="Kitchen_TRIAL_Rot.txt" t="Include" />
+              <e p="Kitchen_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_FAST_F_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_FAST_F_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_FAST_F_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_FAST_M_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_FAST_M_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_FAST_M_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_FAST_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_FAST_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_FAST_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_MED_F_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_MED_F_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_MED_F_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_MED_M_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_MED_M_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_MED_M_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_MED_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_MED_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_MED_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_SLOW_F_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_SLOW_F_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_SLOW_F_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_SLOW_M_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_SLOW_M_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_SLOW_M_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_SLOW_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_SLOW_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_SLOW_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_VSLOW_F_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_VSLOW_F_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_VSLOW_F_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_VSLOW_M_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_VSLOW_M_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_VSLOW_M_TRIAL_Sets.txt" t="Include" />
+              <e p="Krad1_VSLOW_TRIAL_Pos.txt" t="Include" />
+              <e p="Krad1_VSLOW_TRIAL_Rot.txt" t="Include" />
+              <e p="Krad1_VSLOW_TRIAL_Sets.txt" t="Include" />
+              <e p="Save.txt" t="Include" />
+              <e p="Save_KRAD1.txt" t="Include" />
+              <e p="Save_KRAD2.txt" t="Include" />
+              <e p="Save_KVAN.txt" t="Include" />
+              <e p="Save_MALL.txt" t="Include" />
+              <e p="Save_ROAD.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AvatarMovement.cs" t="Include" />
+          <e p="Camera2D.cs" t="Include" />
+          <e p="Camera3D.cs" t="Include" />
+          <e p="Main.cs" t="Include" />
+          <e p="getAvatarManager.cs" t="Include" />
+          <e p="getBackgroundManager.cs" t="Include" />
+          <e p="getCameraDepth.cs" t="Include" />
+          <e p="getCameraManager.cs" t="Include" />
+          <e p="getFloorManager.cs" t="Include" />
+          <e p="getGUIManager.cs" t="Include" />
+          <e p="getGameLoopManager.cs" t="Include" />
+          <e p="getJsonManager.cs" t="Include" />
+          <e p="getLightManager.cs" t="Include" />
+          <e p="getMaterialManager.cs" t="Include" />
+          <e p="getSettingManager.cs" t="Include" />
+          <e p="getTimeOfDay.cs" t="Include" />
+          <e p="getUtilityManager.cs" t="Include" />
+          <e p="toBeRemoved" t="Include">
+            <e p="Agents_Scale.cs" t="Include" />
+            <e p="Background_Camera.cs" t="Include" />
+            <e p="Camera_Control.cs" t="Include" />
+            <e p="HideObject.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="Move_Agent.cs" t="Include" />
+            <e p="Read_Data.cs" t="Include" />
+            <e p="Save_Load.cs" t="Include" />
+            <e p="Screenshots.cs" t="Include" />
+            <e p="Test.cs" t="Include" />
+          </e>
+          <e p="unityEditorHelper.cs" t="Include" />
+        </e>
+        <e p="Shader" t="Include">
+          <e p="depthShader.shader" t="Include" />
+          <e p="flatSurface.shader" t="Include" />
+          <e p="transparentObjectWithShadow.shader" t="Include" />
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Cameras" t="Include">
+            <e p="CameraGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AbstractTargetFollower.cs" t="Include" />
+              <e p="AutoCam.cs" t="Include" />
+              <e p="FreeLookCam.cs" t="Include" />
+              <e p="HandHeldCam.cs" t="Include" />
+              <e p="LookatTarget.cs" t="Include" />
+              <e p="PivotBasedCameraRig.cs" t="Include" />
+              <e p="ProtectCameraFromWallClip.cs" t="Include" />
+              <e p="TargetFieldOfView.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Characters" t="Include">
+            <e p="FirstPersonCharacter" t="Include">
+              <e p="FirstPersonCharacterGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="FirstPersonController.cs" t="Include" />
+                <e p="HeadBob.cs" t="Include" />
+                <e p="MouseLook.cs" t="Include" />
+                <e p="RigidbodyFirstPersonController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="RollerBall" t="Include">
+              <e p="RollerBallGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="Ball.cs" t="Include" />
+                <e p="BallUserControl.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ThirdPersonCharacter" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AICharacterControl.cs" t="Include" />
+                <e p="ThirdPersonCharacter.cs" t="Include" />
+                <e p="ThirdPersonUserControl.cs" t="Include" />
+              </e>
+              <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
+            </e>
+          </e>
+          <e p="CrossPlatformInput" t="Include">
+            <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AxisTouchButton.cs" t="Include" />
+              <e p="ButtonHandler.cs" t="Include" />
+              <e p="CrossPlatformInputManager.cs" t="Include" />
+              <e p="InputAxisScrollbar.cs" t="Include" />
+              <e p="Joystick.cs" t="Include" />
+              <e p="MobileControlRig.cs" t="Include" />
+              <e p="PlatformSpecific" t="Include">
+                <e p="MobileInput.cs" t="Include" />
+                <e p="StandaloneInput.cs" t="Include" />
+              </e>
+              <e p="TiltInput.cs" t="Include" />
+              <e p="TouchPad.cs" t="Include" />
+              <e p="VirtualInput.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Utility" t="Include">
+            <e p="ActivateTrigger.cs" t="Include" />
+            <e p="AutoMobileShaderSwitch.cs" t="Include" />
+            <e p="AutoMoveAndRotate.cs" t="Include" />
+            <e p="CameraRefocus.cs" t="Include" />
+            <e p="CurveControlledBob.cs" t="Include" />
+            <e p="DragRigidbody.cs" t="Include" />
+            <e p="DynamicShadowSettings.cs" t="Include" />
+            <e p="EventSystemChecker.cs" t="Include" />
+            <e p="FOVKick.cs" t="Include" />
+            <e p="FPSCounter.cs" t="Include" />
+            <e p="FollowTarget.cs" t="Include" />
+            <e p="ForcedReset.cs" t="Include" />
+            <e p="LerpControlledBob.cs" t="Include" />
+            <e p="ObjectResetter.cs" t="Include" />
+            <e p="ParticleSystemDestroyer.cs" t="Include" />
+            <e p="PlatformSpecificContent.cs" t="Include" />
+            <e p="SimpleActivatorMenu.cs" t="Include" />
+            <e p="SimpleMouseRotator.cs" t="Include" />
+            <e p="SmoothFollow.cs" t="Include" />
+            <e p="TimedObjectActivator.cs" t="Include" />
+            <e p="TimedObjectDestructor.cs" t="Include" />
+            <e p="WaypointCircuit.cs" t="Include" />
+            <e p="WaypointProgressTracker.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Compositing.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
