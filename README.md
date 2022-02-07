@@ -1,1 +1,10 @@
-# synthetic_data_generation
+
+# Synthetic Crowd data generation project (2019)
+
+The repo contains python and unity3D projects. 
+
+- [x] Python is used to capture and simulate the crowd (i.e. the generates the paths for crowds and setup of various initial steps)
+
+- [x] Unity3D is used to visualise the simulation setup, run the simulation and capture the simulation. 
+
+More info is available here :  https://dl.acm.org/doi/abs/10.1145/3328756.3328773
