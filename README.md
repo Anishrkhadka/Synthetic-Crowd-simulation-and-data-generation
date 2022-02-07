@@ -7,4 +7,6 @@ The repo contains python and unity3D projects.
 
 - [x] Unity3D is used to visualise the simulation setup, run the simulation and capture the simulation. 
 
+![Pipeline preview](https://github.com/Anishrkhadka/Synthetic-Crowd-simulation-and-data-generation/blob/master/Pipeline_preview.png)
+
 More info is available here :  https://dl.acm.org/doi/abs/10.1145/3328756.3328773
