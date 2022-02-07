@@ -1,5 +1,5 @@
 
-# Synthetic Crowd data generation project (2019)
+# Synthetic Crowd data generation tool
 
 The repo contains python and unity3D projects. 
 
